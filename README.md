@@ -1,3 +1,4 @@
+## Bem-vindo(a) ao meu perfil 
 <div>
    <a href="https://github.com/melojr04">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melojr04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,7 +13,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+###############################################################
  
 <div> 
   <a href="www.linkedin.com/in/josé-luiz-de-lima-melo-junior-78740a194" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
